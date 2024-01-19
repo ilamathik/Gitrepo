@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "This is my task"
+#Simple script
+
+echo "Hi ,GOOD MORNING!"
