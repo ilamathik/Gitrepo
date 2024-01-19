@@ -2,4 +2,4 @@
 
 #Simple script
 
-echo "Hi ,GOOD MORNING!"
+echo "Hi ,I am Updating!!!"
